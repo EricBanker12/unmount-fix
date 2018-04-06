@@ -11,4 +11,10 @@ module.exports = function mountFix(dispatch) {
 			return false
 		}
 	})
+
+	dispatch.hook('C_START_SKILL', 'raw', code => {
+		if ((Date.now() - mountTime) < 300) {
+			return false
+		}
+	})
 }
