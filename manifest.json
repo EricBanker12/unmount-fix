@@ -1,8 +1,14 @@
 {
 	"files": {
-		"index.js": "a53752387e457d50d14b68a926e7f533378d96a8bb11dca0e5a466f5fa0f075e",
 		"LICENSE": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2",
-		"module.json": "4074a78fd8458e706fe7c715eb1859722f9a116350675717007c04e03ef72944",
-		"README.md": "9c99a8e0a22a12a3d0029aa23627eccb495c2eb181f5ab2351b1a62d85661ff2"
+		"README.md": "9c99a8e0a22a12a3d0029aa23627eccb495c2eb181f5ab2351b1a62d85661ff2",
+		"README.url": "a74290c013cd239f0faf5c0941e1c8f5d3c7e09e94640b9d2751e1b681bba16b",
+		"index.js": "ed3330fbe5a7aef1c6e4fd3fc5dcb84eda4a758b397864fecbf05147d448a7df",
+		"module.json": "813bd9c6252da53e5f39f97892591c885d3501870c30f21333d8c21f74a61ff5"
+	},
+	"defs": {
+		"C_START_SKILL": "raw",
+		"C_UNMOUNT_VEHICLE": "raw",
+		"S_MOUNT_VEHICLE": "raw"
 	}
 }
