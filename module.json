@@ -1,7 +1,8 @@
 {
-	"disableAutoUpdate": false,
-	"servers": [
-		"https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/"
-	],
-	"supportUrl": "https://github.com/Mister-Kay/unmount-fix/issues"
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/Mister-Kay/unmount-fix/master/"],
+    "supportUrl": "https://github.com/Mister-Kay/unmount-fix/issues",
+    "name": "unmount-fix",
+    "author": "Mister-Kay",
+    "description": "Fix accidental dismounting immediately after mounting."
 }
